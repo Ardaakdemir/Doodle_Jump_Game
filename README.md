@@ -1,7 +1,11 @@
 # Doodle_Jump_Game
+# You Can Play From Here !
+
+## Description
 
 Doodle Jump Game's Clone !
 
-# You can play it from here !
+## Controls 
 
 ## Screenshots
+
