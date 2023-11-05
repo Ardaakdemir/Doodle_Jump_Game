@@ -11,7 +11,7 @@ public class Zipla : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D temas) {
         
-        if(temas.relativeVelocity.y <= 0)
+        if(temas.relativeVelocity.y <= 0.01f)
         {
         fizik = temas.collider.GetComponent<Rigidbody2D> ();
         if (fizik != null)

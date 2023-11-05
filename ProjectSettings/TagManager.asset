@@ -9,6 +9,7 @@ TagManager:
   - Boost
   - Oldurucu
   - Karakter
+  - SapkaPlatform
   layers:
   - Default
   - TransparentFX

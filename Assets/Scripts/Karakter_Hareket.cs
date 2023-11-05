@@ -7,9 +7,10 @@ using System;
 public class Karakter_Hareket : MonoBehaviour
 {
     public float yatayHiz;
-    private float horizontalInput;
+    public static float horizontalInput;
     public static int skor;
     public TextMeshProUGUI skorYazi;
+    public SpriteRenderer render;
     void Start()
     {
        skor = 0;
@@ -19,6 +20,11 @@ public class Karakter_Hareket : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
         transform.Translate(Vector2.right * Time.deltaTime * horizontalInput * yatayHiz);
         skorYazi.text = "Score "+skor;
+        if(horizontalInput != 0)
+        {
+            render.flipX = horizontalInput < 0;
+        }
+
     }
     void OnCollisionEnter2D(Collision2D temas) {
         if (temas.gameObject.tag == "Platform")

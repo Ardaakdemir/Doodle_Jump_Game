@@ -11,6 +11,7 @@ public class Temizle : MonoBehaviour
         float RandomX = Random.Range(-4f,4f);
         float RandomY = Random.Range(9f,10f);
         float RandomYBoost = Random.Range (10f,40f);
+        float RandomYSapkaPlat = Random.Range(60f,130f);
         
         if(temas.tag == "Platform")
         {
@@ -23,6 +24,10 @@ public class Temizle : MonoBehaviour
         if(temas.tag == "Boost")
         {
             temas.transform.position = new Vector3(temas.transform.position.x, temas.transform.position.y + RandomYBoost, temas.transform.position.z);
+        }
+        if(temas.tag == "SapkaPlatform")
+        {
+            temas.transform.position = new Vector3(temas.transform.position.x, temas.transform.position.y + RandomYSapkaPlat, temas.transform.position.z);
         }
     }
 }
