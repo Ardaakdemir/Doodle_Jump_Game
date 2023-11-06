@@ -15,9 +15,7 @@ Doodle Jump Game's Clone !
 
 ![Controls](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Options.png)
 
-# If you want to support me :)
-
-https://www.buymeacoffee.com/Kregai
+# If you want to support me :) https://www.buymeacoffee.com/Kregai
 
 ![Ingame](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Ingame.png)
 
