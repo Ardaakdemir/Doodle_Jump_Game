@@ -11,13 +11,11 @@ Doodle Jump Game's Clone !
 
 ## Screenshots
 
-
-
 ![Menu](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Menu.png)
 
 ![Controls](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Options.png)
 
-## If you want to support me :)
+# If you want to support me :)
 
 https://www.buymeacoffee.com/Kregai
 
