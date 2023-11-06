@@ -22,3 +22,5 @@ Doodle Jump Game's Clone !
 ![Ingame2](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Ingame2.png)
 
 ![Endscreen](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Endscreen.png)
+
+# If you want to support me :) https://www.buymeacoffee.com/Kregai
