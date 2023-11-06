@@ -1,4 +1,4 @@
-# Doodle_Jump_Game
+# Doodle_Jump_Game_Clone
 # You Can Play From Here ! https://play.unity.com/mg/other/doodle-jump-clone
 
 ## Description
