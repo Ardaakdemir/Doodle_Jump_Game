@@ -24,4 +24,3 @@ Doodle Jump Game's Clone !
 ![Endscreen](https://github.com/Ardaakdemir/Doodle_Jump_Game/blob/main/Screenshots/Endscreen.png)
 
 # If you want to support me :) https://www.buymeacoffee.com/Kregai
-
